@@ -1,0 +1,63 @@
+body {
+    background-color: #f1ece7;
+}
+
+.register-title {
+    margin: 30px auto;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Sorts Mill Goudy", serif;
+}
+
+.register-container {
+    margin: 0px auto;
+    padding: 40px 0px;
+    max-width: 500px;
+    border: 1px solid #c5b9b0;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+dl {
+    margin: 0 auto;
+    width: 70%;
+}
+
+dt {
+    margin-bottom: 5px;
+}
+
+dd {
+    margin: 0px;
+}
+
+.register-form__label {
+    font-size: 16px
+}
+.register-form__item {
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #f4f4f4;
+    padding: 4px 20px;
+}
+
+.register-form__message {
+    height: 36px;
+    color: #ff9494;
+    font-size: 14px;
+}
+
+.register-form__button {
+    display: block;
+    margin: 24px auto 0px;
+    padding: 0px;
+    width: 100px;
+    height: 35px;
+    border: none;
+    background: #82756b;
+    color: #fff;
+    cursor: pointer;
+}
