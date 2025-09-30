@@ -21,6 +21,7 @@
     user-select: none;
     white-space: nowrap;
     z-index: 0;
+    font-family: "Sorts Mill Goudy", serif;
 }
 
 .thanks-group {
@@ -39,16 +40,18 @@
 }
 
 .thanks-group__button {
-    display: inline-block;
+display: inline-grid;
+    place-items: center;
+    width: 120px;
+    height: 40px;
+    padding: 0 16px;
+    box-sizing: border-box;
+    line-height: 1 !important;
     color: #fff;
     background: #82756b;
     font-size: 16px;
-    padding: 0 16px;
-    width: 120px;
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
     text-decoration: none;
     border: none;
     cursor: pointer;
+    font-family: "Sorts Mill Goudy", serif;
 }

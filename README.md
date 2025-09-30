@@ -1,4 +1,4 @@
-# FashionablyLate-from 〜お問い合わせフォーム　〜
+# FashionablyLate-from 〜お問い合わせフォーム〜
 
 ## 環境構築
 
